@@ -1,1 +1,1 @@
-It was an group project in university course. Improve the project although the course is finished long time ago.
+It was a group project on a university subject. Although the course is finished in 2022, I want to optimize the code to make it more accurate.
